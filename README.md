@@ -16,23 +16,23 @@ completar el CSS y el contenido a incluir:
 <head><title>Nombre del Alumno</title>
 <meta charset="utf-8">
 </head>
-<body>
-<nav>
-<ul>
-<li><a href="index.html">INICIO</a></li>
-<li><a href="alumno.html">ALUMNO</a></li>
-<li><a href="#">EJEMPLO 1</a></li>
-<li><a href="#">EJEMPLO 2</a></li>
-</ul>
-</nav>
-<section>
-<article>
-</article>
-<aside>
-</aside>
-</section>
-<footer>&copy; Nombre del Alumno</footer>
-</body>
+  <body>
+  <nav>
+  <ul>
+    <li><a href="index.html">INICIO</a></li>
+    <li><a href="alumno.html">ALUMNO</a></li>
+    <li><a href="#">EJEMPLO 1</a></li>
+    <li><a href="#">EJEMPLO 2</a></li>
+  </ul>
+  </nav>
+  <section>
+    <article>
+    </article>
+    <aside>
+    </aside>
+  </section>
+  <footer>&copy; Nombre del Alumno</footer>
+  </body>
 </html>
 ```
 ### Prueba de la práctica
