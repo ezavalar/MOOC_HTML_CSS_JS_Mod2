@@ -69,3 +69,10 @@ Las dos siguientes opciones "EJEMPLO 1" y "EJEMPLO 2" enlazara a ejemplos de pá
 
 ### Instrucciones para la Entrega y Evaluación.
 
+Se debe entregar en un ZIP todos los ficheros necesarios para su correcto funcionamiento
+La nota se calcula en base a:
+1. Media queries, con la correcta visualización en formato apaisado y vertical - 2/10.
+2. Que el alumno utiliza display FLEX y GRID - 2/10.
+3. Que el alumno incluye tipografías vinculadas - 2/10.
+4. Que incluye iframe - 2/10.
+5. Que incluye vídeo y video YouTube - 2/10.
