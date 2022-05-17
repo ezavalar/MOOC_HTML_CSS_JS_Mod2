@@ -7,7 +7,7 @@ Realizar el HTML y los CSS necesarios de una página HTML que debe emplearse
 estilos CSS para mantener la apariencia visual del ejemplo *index.html* :
 El siguiente esqueleto de la página a realizar (alumno.html), donde quedan por
 completar el CSS y el contenido a incluir:
-´´´
+```
 <html>
 <head><title>Nombre del Alumno</title>
 <meta charset="utf-8">
@@ -30,12 +30,12 @@ completar el CSS y el contenido a incluir:
 <footer>&copy; Nombre del Alumno</footer>
 </body>
 </html>
-´´´
+```
 ### Prueba de la práctica
 Para facilitar el desarrollo de la practica se debe utilizar el archivo HTML facilitado para esta práctica En este ejercicio el alumno realizará una página dentro del esquema HTML facilitado en el material del ejercicio.
 
 En esta práctica es necesario incluir:
-Dentro de la caja ´´´<article></article>´´´, se debe incluir:
+Dentro de la caja ```<article></article>```, se debe incluir:
 <ul>
 <li>Un vídeo, en la carpeta video de los materiales facilitados para esta prueba, se incluye el vídeo MOOC en cuatro formatos.</li>
 <li>Un iframe que enlace a una página responsive elegida por el alumno.</li>
