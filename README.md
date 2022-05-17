@@ -47,8 +47,7 @@ Dentro de la caja ```<article></article>```, se debe incluir:
 </ul>
 Los estilos se realizarán en la página vacia estilo_alumno.css.
 Deben emplearse propiedades CSS similares a los utilizados en los ejemplos facilitados al alumno, con al menos con dos puntos de ruptura: landscape y portrait, equivalente a desktop y móvil.
-```
-<nav>
+```<nav>
   <ul>
     <li><a href="index.html">INICIO</a></li>
     <li><a href="alumno.html">ALUMNO</a></li>
