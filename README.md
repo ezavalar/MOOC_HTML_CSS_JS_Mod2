@@ -8,7 +8,7 @@
 Practicar con etiquetas HTML y sus estilos de visualización en CSS.
 ### Descripción de la práctica
 Realizar el HTML y los CSS necesarios de una página HTML que debe emplearse
-estilos CSS para mantener la apariencia visual del ejemplo *index.html* :
+estilos CSS para mantener la apariencia visual del ejemplo index.html:
 El siguiente esqueleto de la página a realizar (alumno.html), donde quedan por
 completar el CSS y el contenido a incluir:
 ```
@@ -45,7 +45,7 @@ Dentro de la caja ```<article></article>```, se debe incluir:
 <li>Un iframe que enlace a una página responsive elegida por el alumno.</li>
 <li>Un vídeo de YouTube.</li>
 </ul>
-Los estilos se realizarán en la página vacia *estilo_alumno.css*.
+Los estilos se realizarán en la página vacia estilo_alumno.css.
 Deben emplearse propiedades CSS similares a los utilizados en los ejemplos facilitados al alumno, con al menos con dos puntos de ruptura: landscape y portrait, equivalente a desktop y móvil.
 ```
 <nav>
