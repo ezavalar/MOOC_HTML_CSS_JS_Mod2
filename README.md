@@ -18,12 +18,12 @@ completar el CSS y el contenido a incluir:
 </head>
   <body>
   <nav>
-  <ul>
-    <li><a href="index.html">INICIO</a></li>
-    <li><a href="alumno.html">ALUMNO</a></li>
-    <li><a href="#">EJEMPLO 1</a></li>
-    <li><a href="#">EJEMPLO 2</a></li>
-  </ul>
+    <ul>
+      <li><a href="index.html">INICIO</a></li>
+      <li><a href="alumno.html">ALUMNO</a></li>
+      <li><a href="#">EJEMPLO 1</a></li>
+      <li><a href="#">EJEMPLO 2</a></li>
+    </ul>
   </nav>
   <section>
     <article>
